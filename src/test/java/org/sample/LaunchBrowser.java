@@ -7,6 +7,12 @@ public class LaunchBrowser {
 		System.out.println("Susee");
 		
 		System.out.println("Anu");
+		
+		
+		
+		
+		
+		System.exit(0);
 
 	}
 
